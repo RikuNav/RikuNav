@@ -1,10 +1,7 @@
-👋 Hi there, I'm @RikuNav
-
-💬 I’m interested in robotics
-
-🌱 I’m currently studying engineering in robotics and digital systems
-
-⚡ I'm looking to colaborate on autonomous robots
+* 👋 Hi there, I'm @RikuNav
+* 💬 I’m interested in robotics
+* 🌱 I’m currently studying engineering in robotics and digital systems
+* ⚡ I'm looking to colaborate on autonomous robots
 
 
 <!--
