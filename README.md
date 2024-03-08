@@ -1,4 +1,8 @@
-### Hi there 👋
+👋 Hi there, I'm @RikuNav
+💬 I’m interested in robotics
+🌱 I’m currently studying engineering in robotics and digital systems
+⚡ I'm looking to colaborate on autonomous robots
+
 
 <!--
 **RikuNav/RikuNav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
